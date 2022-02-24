@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable Lords spiritual and temporal in Parliament assembled, the humble petition of James Percy</title>
+            <author>Percy, James, 1619-1690?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54316</idno>
+            <idno type="STC">Wing P1463A</idno>
+            <idno type="STC">ESTC R36664</idno>
+            <idno type="EEBO-CITATION">15867260</idno>
+            <idno type="OCLC">ocm 15867260</idno>
+            <idno type="VID">104643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1154:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable Lords spiritual and temporal in Parliament assembled, the humble petition of James Percy</title>
+                  <author>Percy, James, 1619-1690?</author>
+               </titleStmt>
+               <extent>8 p. : coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Imperfect: stained, torn, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Percy family.</term>
+               <term>Nobility --  Great Britain.</term>
+               <term>Inheritance and succession --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:104643:1"/>
+            <head>To the Right Honourable Lords Spi<g ref="char:EOLhyphen"/>ritual and Temporal in Parliament Aſſembled.</head>
+            <head type="sub">The Humble Petition of <hi>JAMES PERCY.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat this is the 11th. year of the Petitioner's Claim to the Title and Eſtate belonging to the Earldom of <hi>Northumberland.</hi>
+            </p>
+            <p>That your Petitioner hath had ſeveral Tryals at Law, where he is pro<g ref="char:EOLhyphen"/>ved a true <hi>Percy</hi> legitimate, and no Impoſtor, as once a <hi>Gazet</hi> publiſhed.</p>
+            <p>That through the high Priviledges, Policy and Potency of the Op<g ref="char:EOLhyphen"/>ponents, and Treachery of his Solicitor, and falling away of ſome of his Councel; all which occaſioned Errors both particular and general.</p>
+            <p>That as <hi>William Percy,</hi> the Brother of the Claimant, was put up to ob<g ref="char:EOLhyphen"/>ſtruct Proceedings; and now <hi>Francis Percy</hi> Stone-Cutter is cryed up, who declared himſelf to be the Grandſon of <hi>Thomas Percy,</hi> that was in the <hi>Gun<g ref="char:EOLhyphen"/>powder-Plot,</hi> who in truth was the Son of <hi>Robert Percy,</hi> the Petitioner's great Uncle.</p>
+            <p>
+               <hi>He therefore prays, That a ſet day may be appointed, allowing</hi> 14 <hi>days time to ſummon in Witneſſes, ſo that the Pedigree may be fully proved, that a true Deciſion may be made according to Juſtice, and that Truth may be preſerved, and Errors corrected.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioner ſhall ever pray,</hi> &amp;c.
+JAMES PERCY.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <p>THat whereas the Kings moſt Excellent Majeſty hath been graciouſly pleaſed to refer the Petitioner's Cauſe to the Lords Spiritual and Temporal in Parliament, to Hear and Determine his ſaid Claim to the Earldom of <hi>Northumberland.</hi>
+            </p>
+            <p>That the Right Honourable Lords were pleaſed to receive the above-mentioned Petiition of <hi>James Percy</hi> the Claimant, at the Bar of the ſaid Houſe of Lords the 17th of <hi>November</hi> 1680.</p>
+            <p>That your Lordſhips will be further graciouſly pleaſed, to Call for the ſaid Petition, and cauſe it to be Read, and appoint a day for Tryal, ac<g ref="char:EOLhyphen"/>cording to the Prayer of the aforeſaid Petition, ſo that the Pedigree of your Petitioner may be fully Tryed, with the two Writs of Error.</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioner ſhall ever pray,</hi> &amp;c.
+JAMES PERCY.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb facs="tcp:104643:2"/>
+            <head>
+               <hi>Die</hi> JOVIS, 25<hi rend="sup">o.</hi> 
+               <hi>Novembris,</hi> 1680.</head>
+            <p>WHereas JAMES PERCY <abbr>Eſq</abbr> hath brought two <hi>Writs of Errour</hi> into this Houſe; In One of which, the ſaid JAMES PERCY is Plaintiff, and <hi>John Blackſtone</hi> 
+               <abbr>Eſq</abbr> is Defen<g ref="char:EOLhyphen"/>dant: And in the other, <hi>Robert Utting</hi> is Plaintiff, and Sir <hi>John Coppleſton</hi> is Defendant; Upon both which <hi>Writs,</hi> the <hi>Errors</hi> be<g ref="char:EOLhyphen"/>ing aſſigned, and Iſſue joyned: It is this Day Ordered by the Lords Spiritual and Temporal in PARLIAMENT Aſſembled, That this Houſe will hear the <hi>Errors</hi> upon the ſaid <hi>Two Writs of Errour</hi> Reſpectively, Argued by Councel at the BAR on both Parts, on <hi>Thurſday</hi> the 9th. Day of <hi>December</hi> next at <hi>Ten</hi> of the Clock in the Forenoon. Whereof the ſaid <hi>John Blakeſtone,</hi> and Sir <hi>John Coppleſtone</hi> reſpectively, are to cauſe Timely Notice to be given to the ſaid JAMES PERCY for that Purpoſe.</p>
+            <closer>
+               <signed>JOHN BROWNE,
+<hi>Cleric' Parliamentor'</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="introduction">
+            <p>
+               <hi>The Councel's Opinion, to prove the</hi> Pedigree, <hi>manifeſts</hi> Errours, Re<g ref="char:EOLhyphen"/>moves, Miſtakes <hi>and</hi> Scandals; <hi>and makes a clear way to</hi> Juſtice.</p>
+            <p>
+               <hi>Therefore the following</hi> Pedigree <hi>is prepar'd for the Right Houourable Lords Spiritual and Temporal in</hi> Parliament <hi>at the Day of Hearing.</hi>
+            </p>
+         </div>
+         <div type="pedigree">
+            <pb facs="tcp:104643:2"/>
+            <head>HENRY PERCY, 5th. Earl of <hi>Northumberland,</hi> Married; and had Iſſue 3 Sons, <hi>viz.</hi>
+            </head>
+            <list>
+               <item>I. <hi>Henry Percy,</hi> 6th. Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> Married, and dyed without Iſſue.</item>
+               <item>II. <hi>Thomas Percy,</hi> Married, and had Iſſue; But when <hi>Joſceline Percy</hi> the 11th. Earl dyed; the Heirs Males of this Line were Extinct alſo.</item>
+               <item>III. Sir <hi>Ingelram Percy,</hi> Married and had Iſſue 2 Sons, <hi>(viz.) Henry,</hi> and <hi>Robert.</hi>
+                  <list>
+                     <item>
+                        <hi>Henry Percy,</hi> Eldeſt Son, Married, and had Iſſue 3 Sons <hi>(viz.) James, William,</hi> and <hi>Henry;</hi> But the 2 elder Bro<g ref="char:EOLhyphen"/>thers dyed without Iſſue-male</item>
+                     <item>
+                        <hi>Henry Percy,</hi> (Third Son,) Married, and had Iſſue 3 Sons <hi>(viz.) Henry, James,</hi> and <hi>Henry:</hi> But the two <hi>Henries</hi> dyed young.</item>
+                     <item>
+                        <hi>James Percy,</hi> (the now Claimant) Married, and hath 3 Sons, <hi>(viz.) Anthony, Hen<g ref="char:EOLhyphen"/>ry,</hi> and <hi>John.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Percy,</hi> is Married, and hath Iſſue, <hi>Henry Percy,</hi> Grandſon of <hi>James Percy</hi> the now Claimant.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <hi>The following Account makes out this</hi> Pedigree <hi>fully, and at large down from</hi> Henry Percy 5th. <hi>Earl of</hi> Northumberland, <hi>to the Claim<g ref="char:EOLhyphen"/>ant</hi> James Percy, <hi>his</hi> Sons, <hi>and</hi> Grand-ſon, Henry Percy.</p>
+         </div>
+         <div type="pedigree">
+            <pb facs="tcp:104643:3"/>
+            <pb n="5" facs="tcp:104643:3"/>
+            <argument>
+               <p>A True Pedegree to prove the Claymant, <hi>James Percy,</hi> to be the ſecond Son of <hi>Henry Percy</hi> of <hi>Horton</hi> in the County of <hi>Northampton,</hi> who was third Son of <hi>Henry Percy</hi> of <hi>Parvenham</hi> in the County of <hi>Bedford,</hi> who was the eldeſt Son of Sir <hi>Ingelram Percy,</hi> K<hi rend="sup">nt.</hi> who was the third Son of <hi>Henry</hi> Lord <hi>Percy, 5<hi rend="sup">th.</hi>
+                  </hi> Earl of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> By which Deſcent the Claymant is Couſin and next Heir-male to <hi>Joſcelin Percy</hi> the late and <hi>11<hi rend="sup">th.</hi>
+                  </hi> Earl of <hi>Northumberland,</hi> Deceaſed.</p>
+            </argument>
+            <figure/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>ENRY</hi> Lord <hi>PERCY,</hi> Fifth Earl of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> Lord of the Honours of <hi>Cocker<g ref="char:EOLhyphen"/>mouth</hi> and <hi>Petworth,</hi> Lord <hi>Percy, Lucy, Poy<g ref="char:EOLhyphen"/>nings, Fitz-payne</hi> and <hi>Bryan,</hi> and Knight of the moſt Noble Order of the Garter,</p>
+            <p>Who married <hi>Katheriue,</hi> one of the Daughters and Co-heirs of Sir <hi>Robert Spencer</hi> Knight; by whom he had Iſſue.</p>
+            <p n="1">1ſt. <hi>Henry</hi> Lord <hi>Percy,</hi> 6th. Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land;</hi> who Dyed without Iſſue.</p>
+            <p n="2">2d. <hi>Thomas Percy</hi> Knight, who was Executed; had to Wife, <hi>Eleanor,</hi> one of the Daughters and Co-heirs of Sir <hi>Gwichard Harbottle</hi> Knight; by whom he had Iſſue, <hi>Thomas</hi> the 7th. Earl of <hi>Northumberland,</hi> who was beheaded at <hi>York,</hi> and dyed without Iſſue-male; And <hi>Henry</hi> the 8th. Earl of <hi>Northumberland,</hi> whoſe Iſſue is incerted hereafter.</p>
+            <p n="3">3d. Sir <hi>Ingelram Percy</hi> Knight, who was married, as by the Oath of Mr. <hi>Henry Champion,</hi> who kept the Books and Records of the <hi>Percies.</hi>
+            </p>
+            <p>
+               <hi>Henry</hi> Lord <hi>Percy</hi> 6th. Earl of <hi>Northumberland,</hi> Lord of the Honours of <hi>Cockermouth</hi> and <hi>Petworth,</hi> Lord <hi>Percy, Lucy, Poynings, Fitz-payne</hi> and <hi>Bryan,</hi> Knight of the moſt Noble Order of the Garter, who Dyed at <hi>Hackny</hi> near <hi>London</hi> the day before the Calends of <hi>July</hi> 1537. leaving no Children behind him, The Dignity of the Earl of <hi>Northum<g ref="char:EOLhyphen"/>berland</hi> was vacant till the time of <hi>Edward</hi> VI. <hi>John Dudly</hi> Earl of <hi>Warwick,</hi> Viſcount <hi>Liſie,</hi> Lord <hi>Baſſet</hi> and <hi>Tyes</hi> was intituled Duke of <hi>Northumberland</hi> the 5th. year of King <hi>Edward</hi> VI. But when he was Dead, <hi>Thomas Percy</hi> Nephew to this <hi>Henry</hi> by <hi>Thomas</hi> his Brother, who was Executed; In the Reign of Qu. <hi>Mary,</hi> was reſtor'd to all the Ho<g ref="char:EOLhyphen"/>nours of that Family.</p>
+            <p>
+               <hi>Thomas Percy,</hi> Nephew to <hi>Henry</hi> 6th. Earl of <hi>Northumberland</hi> by his Brother <hi>Thomas,</hi> when the ſtock of the <hi>Percies</hi> were fading; to their Relief was inveſted to the Earldom of <hi>Northumberland,</hi> which the Earl of <hi>Warwick</hi> held before; and thereby was the 7th. Earl of <hi>Northumberland</hi> of that Family, Lord of the Honours of <hi>Cockermouth, Petworth,</hi> Lord <hi>Percy, Lucy, Poynings, Fitz-payne</hi> and <hi>Bryan;</hi> Queen <hi>Mary</hi> beſtowing thoſe Ho<g ref="char:EOLhyphen"/>nours upon him, and his Heirs Male; (and for want of ſuch Iſſue, Then to <hi>Henry</hi> his Brother, and his Heirs Male,) by her Letters Patents, dated the <hi>first</hi> day of <hi>May</hi> 1557: and whatſoever elſe of the Antient Patrimonies of the Earls remained, Seiſed, or For<g ref="char:EOLhyphen"/>feited: But if He ſhould die without Iſſue Male, Then it ſhould go to his Brother <hi>Henry,</hi> and his Iſſue Male. And although (to Honour him the more,) Queen <hi>Elizabeth</hi> made him Knight of the moſt Noble Order of the Garter; Yet He, (unmindful of all theſe Be<g ref="char:EOLhyphen"/>nefits,)
+<pb n="6" facs="tcp:104643:4"/>Conſpir'd with <hi>Charles</hi> Earl of <hi>Weſtmerland,</hi> to Depoſe, by Force, Qu. <hi>Elizabeth;</hi> So by Authority of Parliament he was Condemned for High Treaſon, and as Chief in the Conſpiracy, was beheaded at <hi>York,</hi> 14th. year of Queen <hi>Elizabeth.</hi>
+            </p>
+            <p>Who married <hi>Anne</hi> the Daughter of <hi>Henry Somerſet</hi> Earl of <hi>Worceſter,</hi> and had Iſſue Male, <hi>Thomas,</hi> that dyed young, and 4 Daughters; Heirs Males Extinct, And</p>
+            <p>
+               <hi>Henry Percy</hi> 8th. Earl of <hi>Northumberland,</hi> Lord of the Honours of <hi>Cockermouth, Pet<g ref="char:EOLhyphen"/>worth,</hi> Lord <hi>Percy, Lucy, Poynings, Fitz-payne</hi> and <hi>Bryan;</hi> all which Honours he en<g ref="char:EOLhyphen"/>joy'd by virtue of the Letters Patents given by Queen <hi>Mary</hi> to his Brother <hi>Thomas,</hi> and was Created <hi>Anno</hi> 1574. He was after accuſed of Treaſon; and being in the Tower of <hi>London,</hi> ſlew himſelf with a Dag charg'd with Two Bullets, (before his Cauſe was heard, or that he was Arraigned,) in the Month of <hi>July</hi> 1585.</p>
+            <p>
+               <hi>ARMS Quarter'd as before,</hi> Who married <hi>Katherine</hi> one of the Daughters and Co-heirs of <hi>John Nevel</hi> Lord <hi>Latimer,</hi> by whom he had Iſſue,
+<list>
+                  <item>1. <hi>Henry</hi> the 9th. Earl.</item>
+                  <item>2. <hi>Thomas,</hi> who dyed young.</item>
+                  <item>3. <hi>William.</hi>
+                  </item>
+                  <item>4. Sir <hi>Charles Percy</hi> Knight.</item>
+                  <item>5. Sir <hi>Richard Percy</hi> Knight.</item>
+                  <item>6. Sir <hi>Alan Percy</hi> Knight.</item>
+                  <item>7. Sir <hi>Joſceline Percy</hi> Knight.</item>
+                  <item>8. <hi>George Percy</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Henry</hi> Lord <hi>Percy</hi> 9th. Earl of <hi>Northumberland,</hi> Lord of the Honours of <hi>Cockermouth,</hi> and <hi>Petworth,</hi> Lord <hi>Percy, Lucy, Poynings, Fitz-payne,</hi> and <hi>Bryan,</hi> and (in his Mothers right,) Lord <hi>Latimer;</hi> He was Knight of the moſt Noble Order of the Garter, by Qu. <hi>Elizabeth,</hi> in the Year of our Lord 1593.</p>
+            <p>Who marryed <hi>Dorothy,</hi> Daughter of <hi>Walter Devereux,</hi> Earl of <hi>Eſſex;</hi> by whom he had Iſſue,
+<list>
+                  <item>1. <hi>Algernon,</hi> the 10th. Earl.</item>
+                  <item>2. Lord <hi>Henry,</hi> who dyed without Iſſue.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Algernon,</hi> the 10th. Earl of <hi>Northumberland,</hi> Lord of the Honours of <hi>Cockermouth</hi> and <hi>Petworth,</hi> Lord <hi>Percy, Lucy, Poynings, Fitz-payne, Bryan</hi> and <hi>Latimer,</hi> Knight of the moſt Noble Order of the Garter, <hi>Lord Admiral</hi> of <hi>England,</hi> and <hi>General</hi> over His Ma<g ref="char:EOLhyphen"/>jeſties Forces for his Expedition 1640. and one of His Majeſties moſt Honourable Privy Council: He marryed Two Wives: by the former he had 4 Daughters; and by the latter Wife, 1 Son, <hi>(viz.) Joſceline.</hi>
+            </p>
+            <p>
+               <hi>Joſceline,</hi> the 11th. Earl of <hi>Northumberland,</hi> Lord of the Honours of <hi>Cockermouth</hi> and <hi>Petworth,</hi> Lord <hi>Percy, Lucy, Poynings, Fitz-payne, Bryan</hi> and <hi>Latimer,</hi> Deceaſed;</p>
+            <p>Who married <hi>Elizabeth,</hi> Daughter to the Earl of <hi>Southampton,</hi> by whom he had Iſſue
+<list>
+                  <item>1. <hi>Henry,</hi> who dyed young.</item>
+                  <item>2. <hi>Elizabeth,</hi> who marry'd the Lord <hi>Ogle. (Heirs Males Extinct.)</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>The Collateral Line.</hi>
+            </p>
+            <p>Sir <hi>Ingelram Percy,</hi> the 3d. and youngeſt Son of <hi>Henry Percy</hi> the 5th. Earl of <hi>Northum<g ref="char:EOLhyphen"/>berland;</hi> who married, and had Sons and Daughters, as by the Oath of Mr. <hi>Henry Cham<g ref="char:EOLhyphen"/>pion,</hi> who kept the <hi>Percies</hi> Books and Records; where he found what he teſtify'd upon Oath, at the Tryal between <hi>
+                  <g ref="char:V">Ʋ</g>tting</hi> Plaintiff, and <hi>Coppleſton</hi> Defendant; He had Iſſue,
+<list>
+                  <item>1. <hi>Henry Percy,</hi>
+                  </item>
+                  <item>2. <hi>Robert Percy,</hi> and 2 Daughters.</item>
+               </list>
+            </p>
+            <p>About 1559. theſe 4 Children were (in the time of Troubles in Queen <hi>Elizabeths</hi> Days) ſent out of the North in Hampers, to old Dame <hi>Vaux</hi> at <hi>Haraden</hi> in <hi>Northamp<g ref="char:EOLhyphen"/>tonſhire,</hi> and there were brought up, preſerved, and provided for. Therefore it is con<g ref="char:EOLhyphen"/>cluded by all, that Sir <hi>Ingelram</hi>'s Lady, (the Mother of thoſe Children, (muſt be related to Dame <hi>Vaux</hi>'s Family.</p>
+            <p>The Counteſs <hi>Dowager</hi> of <hi>Dorſet, Pembrook,</hi> and <hi>Mountgomery,</hi> ſaid, <hi>That if the Clai<g ref="char:EOLhyphen"/>mant,</hi> James Percy, <hi>were her Kinſman, he muſt be deſcended of thoſe Children that were ſent into the</hi> South <hi>in Hampers.</hi> [Note] There were but few Coaches in thoſe days. <hi>Mar<g ref="char:EOLhyphen"/>garet</hi> that married the firſt Earl of <hi>Cumberland,</hi> whom the Counteſs of <hi>Dorſet</hi> deſcended from, was Sir <hi>Ingelram Percie's</hi> own Siſter. And while the Claymant was with this Lady, enquiring and delivering Declarations in Ejectment, the Eſtate was all begg'd, as his printed Book makes appear more at large.</p>
+            <p>That which wildernized the Claymant, was, the rending the matchings of the <hi>Percies</hi> out of the Herald's Book, and likewiſe the Herald-painter left Sir <hi>Ingelram</hi> quite out of the firſt Pedegree.</p>
+            <p>
+               <pb n="7" facs="tcp:104643:4"/>
+               <hi>Henry,</hi> the eldeſt Son of Sir <hi>Ingelram</hi> marryed the Daughter of one <hi>Tibott,</hi> by whom he had Iſſue,
+<list>
+                  <item>1. <hi>James Percy,</hi> who dyed about the year 1654. in <hi>Ireland,</hi> without Iſſue-male.</item>
+                  <item>2. <hi>William,</hi> who died young.</item>
+                  <item>3. <hi>Henry.</hi> And 3 Daughters.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Henry Percy</hi> married <hi>Lidea</hi> the Daughter of Mr. <hi>Robert Cope</hi> of <hi>Horton</hi> in <hi>Northamp<g ref="char:EOLhyphen"/>tonſhire,</hi> by whom he had Iſſue,
+<list>
+                  <item>1. <hi>Henry,</hi> who dyed young.</item>
+                  <item>2. <hi>James.</hi>
+                  </item>
+                  <item>3. <hi>Henry,</hi> who dyed young. 1 Daughter, named <hi>Elizabeth.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>James,</hi> the now Claymant, born 1619. of <hi>Henry</hi> and <hi>Lidea</hi> his Wife, who was 2d. Son of <hi>Henry,</hi> who was firſt Son of Sir <hi>Ingelram,</hi> who was 3d. Son of <hi>Henry,</hi> 5th. Earl of <hi>Northumberland,</hi> who was great great Grandfather of the Claymant <hi>James Percy,</hi> who married <hi>Sarah</hi> the Daughter of <hi>John Sayer</hi> of <hi>Norwich,</hi> Gent. by whom he hath Iffue,
+<list>
+                  <item>1. <hi>Anthony Percy,</hi> married and hath a Son <hi>(viz.) Henry.</hi>
+                  </item>
+                  <item>2. <hi>Henry.</hi>
+                  </item>
+                  <item>3. <hi>John.</hi>
+                  </item>
+               </list>
+            </p>
+            <figure/>
+            <p>UPon a tripartine Exchange, the Countries from <hi>Trent,</hi>
+               <note place="margin">
+                  <hi>Sir W. Chur<g ref="char:EOLhyphen"/>chil's Hiſto<g ref="char:EOLhyphen"/>ry; fel.</hi> 257.</note> to the North-ward, was the Lot of the <hi>Percies,</hi> in Memory whereof the ſame being in the <hi>Georgraphical</hi> Form of an Malf-moon, Creſcent for their Cognizance</p>
+            <p>A ſhort Abſtract of the fore-going Narrative, co-temporizing down from <hi>Henry</hi> the 5th. Earl of <hi>Northumberland,</hi> who had as before the following (Iſſue) 6th. Earl of <hi>Northumberland, Henry</hi> eldeſt Son, who dyed without Iſſue.</p>
+            <list>
+               <item>
+                  <hi>Thomas</hi> ſecond Son had two Sons, both Earls. Sir <hi>Ingelram Percy</hi> third Son had two Sons, <hi>viz.</hi>
+               </item>
+               <item>7th. and 8th. Earls, <hi>Thomas,</hi> and <hi>Henry,</hi> firſt Couſins unto — <hi>Henry, Robert.</hi>
+               </item>
+               <item>9th. Earl, <hi>Henry,</hi> and his Bretheren, ſecond Couſins unto—<hi>James, Henry.</hi>
+               </item>
+               <item>10th. Earl, <hi>Algernon</hi> and his Brother, third Couſins unto—<hi>James.</hi>
+               </item>
+               <item>11th. Earl, <hi>Joſcelin,</hi> fourth Couſin unto— <hi>Anthony, Henry, John.</hi>
+               </item>
+               <item>The Lady <hi>Elizabeth Percy</hi> married to the Lord <hi>Ogle,</hi> 5th. Couſin unto —<hi>Henry.</hi>
+               </item>
+            </list>
+            <p>This may ſatisfie all wiſe Men of the Truth of this Pedigree; As for the Claymant <hi>James Percy,</hi> he doth acknowledge the miſtake of claiming under Sir <hi>Richard Percy,</hi> who was born <hi>Anno</hi> 1573. And <hi>James Percy,</hi> who was Unckle and Godfather to the Claymant, was born 1581. So by this Account Sir <hi>Richard</hi> muſt have been a Grandfa<g ref="char:EOLhyphen"/>ther at 8 years of Age. This is an impoſſible thing indeed.</p>
+            <p>But here lies the Myſtery, and the very Truth of this matter; and it was his Coun<g ref="char:EOLhyphen"/>cels advice, to fix upon a wrong party, which (ſaid they) would be the only way to find out the right party; For the Matches of the <hi>Percies</hi> was rent out of the Heralds book, and Sir <hi>Ingelram Percie</hi>'s Name was quite left out of the firſt Pedegree, which wilder<g ref="char:EOLhyphen"/>nized the Claymant, and the Councels too, which forced the Claymants Councel to tell the Lords in Parliamant, that the Cauſe did not lie before their Lordſhips, but ought to be tryed before the inferiour Courts firſt; and if the Law could not end it, then it was to return, and come before their Lordſhips again, to debate and to determine: Since which time it hath been found out by a Verdict at Law, that <hi>James Percy,</hi> is the Legitimate Son of <hi>Henry Percy</hi> and <hi>Lidia</hi> his Wife. And upon Petitions, as in the printed Book may appear, The Kings Moſt Excellent Majeſty hath graciouſly conde<g ref="char:EOLhyphen"/>ſcended that the Lords in Parliament ſhall determine the ſaid Cauſe.</p>
+            <p>
+               <pb n="8" facs="tcp:104643:5"/>
+It is hoped that this juſt account will abate that miſtake of Clayming under Sir <hi>Richard;</hi> for the Lord Chief Juſtice <hi>Hayls</hi> ſaid at the firſt Tryal, <hi>That the Plaintiff had proved himſelf Legitimate by Father and Mother, by Grandfather and Grandmother, but had taken his Deſcent too Low, he must go a ſtep or two Higher.</hi> And the Lord Chief Juſtice <hi>Rainſ<g ref="char:EOLhyphen"/>ford</hi> ſaid to the Jury at that Tryal againſt <hi>Wright</hi> for Scandal, <hi>That the Plaintiff had pro<g ref="char:EOLhyphen"/>ved himſelf Legitimate,</hi> and therefore did not examine the third part of his Witneſſes; but ſaid <hi>His Pedegree was fully proved at a Tryal before that Court.</hi> So that the Plaintiff ought to have had a Verdict then, when Mr. <hi>Henry Champion</hi>'s Oath did perfect and fix'd the Pedegree as before-declared. And the Lord Chief Juſtice <hi>Scroggs,</hi> at the laſt Tryal a<g ref="char:EOLhyphen"/>gainſt <hi>Blaickstone</hi> for Scandal, and the whole Court did own the Pedegree of the Plain<g ref="char:EOLhyphen"/>tiff, only ſaid, <hi>The Declaration was nought.</hi> When in Truth it was debated and allow<g ref="char:EOLhyphen"/>ed at the firſt part of the Tryal; which is good Cauſe of Error. As the Claymant hath laboured to find out the Truth, even ſo he doth moſt humbly pray, That all Wiſe, Lear<g ref="char:EOLhyphen"/>ned, and Conſcientious men may take Courage, like the Lord Chief Juſtice <hi>Hayls</hi> and his Brethren, and ſtrictly inquire into the very bottom of the matter, and to ſet aſide all miſtakes, and ſet up Truth, and maintain and ſpeak cordially to and for Juſtice; this being the only way to clear the Innocent and put a ſtop to Oppreſſion. And the Relieved (as in Duty bound) ſhall ever pray for his Majeſties long Life, and the Pro<g ref="char:EOLhyphen"/>ſperity of Him, His Realms, and Kingdoms.</p>
+            <p>The above Claymant had two Petitions read in Council, 21 <hi>July</hi> 1680. (and rejected) It ſeems it was objected, that the Man whom the Claymant claimed under muſt be a Grandfather at eight years old. It is hoped the account aforeſaid will juſtly ſatisfie and procure a right underſtanding at the ſecond hearing before the Lords in Parliament And there being no preſident, as the Claymant is informed, that the Orders of this Houſe do perpetually bar, where the party hath not been fully heard.</p>
+            <list>
+               <item>For <hi>Henry,</hi> 5th. Earl, had Sir <hi>Ingelram,</hi>
+               </item>
+               <item>— who had <hi>Henry,</hi> and he had <hi>Henry,</hi>
+               </item>
+               <item>— who had <hi>James</hi> the Claymant.</item>
+            </list>
+            <p>This Truth is as clear as the Sun at Noon-day, and blows over the miſty miſtake of Claiming nnder Sir <hi>Richard Percy.</hi>
+            </p>
+            <p>It was the putting down of the Court of Wards, and ſetting up of Priviledges on all ſides againſt the true Heir-male, and the general neglect of the Heralds in the Col<g ref="char:EOLhyphen"/>lateral Line, and the treacherous Actings of his Solicitor, did obſtruct and delay all this time.</p>
+            <p>Moreover, the Lord <hi>Ogle</hi> that married the Lady <hi>Elizabeth Percy,</hi> hath endeavoured to change his Name from <hi>Cavendiſh</hi> to <hi>Percy,</hi> and alſo to have obtained an Act of Par<g ref="char:EOLhyphen"/>liament to ſettle and confirm upon him (the aforeſaid Lord <hi>Ogle</hi>) all thoſe Lands which are annexed to the Title and Earldom of <hi>Northumberland;</hi> which Lands formerly were firmly ſettled upon the Heir-males of the <hi>Percies</hi> for ever.— See the Records and the Verdict exemplified, and pray a ſtop may be put to the Lord <hi>Ogle's</hi> Act of Parliament, by reaſon the Lands are begg'd, bought, ſold and ſcattered. The undoubted Right, and next Heir-male of the <hi>Percies</hi> in Bloud, and ſo proved at Law, and therefore he moſt humbly and earneſtly prays, <hi>That an Act of Parliament may be had, to restore him to his</hi> Birth-right, Title, Eſtate, Preheminence, Priviledges, Place <hi>and</hi> Seat <hi>of his An<g ref="char:EOLhyphen"/>cestors, As it hath been done heretofore to ſeveral of the</hi> Percies, <hi>the Earl of</hi> Kent <hi>and others.</hi> This being the 11th. Year of the Claim of</p>
+            <closer>
+               <signed>JAMES PERCY.
+Who humbly Beggs, Prays, and Cries for ſpeedy Juſtice.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
